@@ -8,7 +8,7 @@ class Program{
 		}else if(b>c){
 			system.out.println("world hello");
 		}else(c>a){
-			system.out.println("hello")
+			system.out.println("world");
 		}
 	}
 }	
