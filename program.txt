@@ -5,8 +5,10 @@ class Program{
 	
 		if(a>b){
 			system.out.println("hello world");
-		}else(b>a){
+		}else if(b>c){
 			system.out.println("world hello");
+		}else(c>a){
+			system.out.println("hello")
 		}
 	}
 }	
